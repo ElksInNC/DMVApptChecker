@@ -24,6 +24,7 @@ My operating conditions.
 5) You will need to input your location Lat/Long into the script - it doesn't read from a file.
 6) This is all made to run from whatever directory you put it in.  References to subdirectories are ./Logs and ./Screenshots so it shouldn't matter where you run it.
 7) Even though Playwright will run headless - if you want to snag an appointment it found and you are running headless, you have to re-launch the browser in a non-headless state so you can interact.  I didn't want to loose the appointment and I discovered that if you click "Next" to the confirmation page, it temporariliy removes that appointment from anyone else snagging it.  This gave me 3 minutes to get back to my desktop and finalize.
+8) I hard coded it to a particular appt type ('Teen Driver Level 2') so if you need something different you will need to change that text target.
 
 There are 4 mandatory files.
 
