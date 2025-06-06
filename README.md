@@ -3,9 +3,15 @@ DMV Appt Scraper
 
 I created this script b/c the NC DMV appointment system SUCKS!
 
-This isn't for just anyone.
+This isn't for just anyone.  If you are not SUPER comfortable with python code and command line scripts - don't even start. 
+Use this guy's website instead and be sure to slip him a coffee.
+https://nc-dmv-appointments.com/
 
-My conditions.
+No guarantees that this code won't corrupt your computer.
+No guarantee it won't get you in trouble with the DMV.
+No guarantee it won't bork an existing appointment you already have (it won't but still - no guarantee!)
+
+My operating conditions.
 
 1) Running on a Mac OS desktop
 2) Xtools and command line stuff including Python3 installed
@@ -33,3 +39,5 @@ The pause between scan cycles is random between 20-30 seconds and if you hit 60 
 Not a fan of the DMV but didn't want to get banned in the 11th hour!
 
 Good luck.
+
+PS - this code SUCKS!  It is bloated, full of debugging statements and probably has a bunch of crazy logic in it.  I didn't write most of it - AI did the heavy lift.  So don't tell me I'm a crappy programmer.  I KNOW!  But it did what I needed it to do.
