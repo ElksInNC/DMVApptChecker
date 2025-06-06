@@ -1,17 +1,18 @@
 # DMVApptChecker
-DMV Appt Scraper
+
+##DMV Appt Scraper
 
 I created this script b/c the NC DMV appointment system SUCKS!
 
-This isn't for just anyone.  If you are not SUPER comfortable with python code and command line scripts - don't even start. 
+##This isn't for just anyone.  If you are not SUPER comfortable with python code and command line scripts - don't even start. 
 
-Use this guy's website instead and be sure to slip him a coffee.
+##Use this guy's website instead and be sure to slip him a coffee.
 
-https://nc-dmv-appointments.com/
+###https://nc-dmv-appointments.com/
 
-*No guarantees that this code won't corrupt your computer.
-*No guarantee it won't get you in trouble with the DMV.
-*No guarantee it won't bork an existing appointment you already have (it won't but still - no guarantee!)
+##No guarantees that this code won't corrupt your computer.
+##No guarantee it won't get you in trouble with the DMV.
+##No guarantee it won't bork an existing appointment you already have (it won't but still - no guarantee!)
 
 My operating conditions.
 
