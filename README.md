@@ -11,9 +11,9 @@ Use this guy's website instead and be sure to slip him a coffee.
 [NC DMV Appointments](https://nc-dmv-appointments.com/)
 
 > [!WARNING]
-> No guarantees that this code won't corrupt your computer.
-> No guarantee it won't get you in trouble with the DMV.
-> No guarantee it won't bork an existing appointment you already have (it won't but still - no guarantee!)
+> * No guarantees that this code won't corrupt your computer.
+> * No guarantee it won't get you in trouble with the DMV.
+> * No guarantee it won't bork an existing appointment you already have (it won't but still - no guarantee!)
 
 My operating conditions.
 
