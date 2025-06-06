@@ -66,6 +66,9 @@ async def check_for_appointments_loop():
                 if not hover:
                     continue
                 full_text = (await hover.inner_text()).strip()
+
+# ----------- Chnage the text in this IF to target a different appointment type
+
                 if "Teen Driver Level 2" in full_text:
                     print("✅ Found 'Teen Driver Level 2', clicking tile...")
                     await tile.scroll_into_view_if_needed()
