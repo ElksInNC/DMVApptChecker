@@ -37,8 +37,8 @@ That's it.  I went from an appointment that was 3 weeks away and 110 miles as th
 
 Check your emails - they cancel on you if you don't follow the instructions exactly.
 
-I was trying to not be too abusive and never got IP banned.  But I did include some random timers.  And it creates a new user session each time it launches the script but then retaains that user session for 60 cycles.
-The pause between scan cycles is random between 20-30 seconds and if you hit 60 cycles it will exit the script and the dmv_loop will cool down the script.
+I was trying to not be too abusive and never got IP banned.  But I did include some random timers.  And it creates a new user session each time it launches the script but then retains that user session for 60 cycles.
+The pause between location scan cycles is random between 20-30 seconds and if you hit 60 cycles it will exit the script and the dmv_loop will cool down the script.
 
 Not a fan of the DMV but didn't want to get banned in the 11th hour!
 
